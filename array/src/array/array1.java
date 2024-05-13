@@ -4,6 +4,7 @@ public class array1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Array ....");
 		int a[]=new int[9];
 		a[0]=10;
 		a[1]=20;
